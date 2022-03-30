@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.7.0] - 2022-03-30
+
 ## [1.6.0] - 2022-03-30
 
 ## [1.5.1] - 2022-03-30
@@ -58,7 +60,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   Everything since the beginning!
 
-[Unreleased]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/1.6.0...HEAD
+[Unreleased]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/1.7.0...HEAD
+
+[1.7.0]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/1.6.0...1.7.0
 
 [1.6.0]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/1.5.1...1.6.0
 
