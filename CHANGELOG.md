@@ -7,8 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.5.1] - 2022-03-30
-
 ## [2.0.0] - 2020-10-17
 
 ### Changed
@@ -56,9 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   Everything since the beginning!
 
-[Unreleased]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/1.5.1...HEAD
-
-[1.5.1]: https://github.com/PrimalPimmy/github-action-gitflow-release-workflow/compare/2.0.0...1.5.1
+[Unreleased]: https://github.com/thomaseizinger/github-action-gitflow-release-workflow/compare/2.0.0...HEAD
 
 [2.0.0]: https://github.com/thomaseizinger/github-action-gitflow-release-workflow/compare/1.4.0...2.0.0
 
